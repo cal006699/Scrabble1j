@@ -5,11 +5,11 @@ projet Scrabble 1player
 -Application de bureau **WPF / C#**  
 -Traitement des **demandes de correction et d'évolutions**  
 ### Arborescence des fichiers
-`ScrabbleV1  
-  |--FondScrabble.png  
-  |--MainWindows.xaml.cs  
-  |  |--MainWindows.xaml.cs  
-  |--Utilitaires.cs`  
+`ScrabbleV1`  
+  `|--FondScrabble.png`  
+  `|--MainWindows.xaml.cs`  
+  `|  |--MainWindows.xaml.cs`  
+  `|--Utilitaires.cs`  
 ### Objectis pédagofiques
 1. Versionning du code avec Git/Github
    Compmandes Git: `git init`/`git clone`/`git commit`/`git push`/...  
