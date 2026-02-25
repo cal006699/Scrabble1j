@@ -1,9 +1,9 @@
 # Scrabble1j
 projet Scrabble 1player
 ## Descritpion
--jeu simplifié du SCRABBLE : l'application affiche le score du mot saisi par l'utilisateur / [Valeur des lettres au Scrabble](https://fr.wikipedia.org/wiki/Scrabble)  
--Application de bureau WPF / C#  
--Traitement des demandes de correction et d'évolutions  
+-**jeu simplifié du SCRABBLE** : l'application affiche le score du mot saisi par l'utilisateur / [Valeur des lettres au Scrabble](https://fr.wikipedia.org/wiki/Scrabble)  
+-Application de bureau **WPF / C#**  
+-Traitement des **demandes de correction et d'évolutions**  
 ### Arborescence des fichiers
 `ScrabbleV1  
   |--FondScrabble.png  
