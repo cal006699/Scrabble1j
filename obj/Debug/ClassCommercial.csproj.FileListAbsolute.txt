@@ -1,0 +1,42 @@
+C:\Users\sophie\Desktop\Sauvegardes\Sept2016\SLAM2\TD_TP\TD02\GestCommercial\ClassGestCommercial\bin\Debug\ClassGestCommercial.dll
+C:\Users\sophie\Desktop\Sauvegardes\Sept2016\SLAM2\TD_TP\TD02\GestCommercial\ClassGestCommercial\bin\Debug\ClassGestCommercial.pdb
+C:\Users\sophie\Desktop\Sauvegardes\Sept2016\SLAM2\TD_TP\TD02\GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.dll
+C:\Users\sophie\Desktop\Sauvegardes\Sept2016\SLAM2\TD_TP\TD02\GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.pdb
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM2\TD_TP\02TD\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csprojAssemblyReference.cache
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM2\TD_TP\02TD\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csproj.CoreCompileInputs.cache
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM2\TD_TP\02TD\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.dll
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM2\TD_TP\02TD\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.pdb
+D:\Annee2020-2021\B2Conception et developpement applications\TP\02TP\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csprojAssemblyReference.cache
+D:\Annee2020-2021\B2Conception et developpement applications\TP\02TP\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csproj.CoreCompileInputs.cache
+D:\Annee2020-2021\B2Conception et developpement applications\TP\02TP\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.dll
+D:\Annee2020-2021\B2Conception et developpement applications\TP\02TP\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.pdb
+D:\Annee2020-2021\B2Conception et developpement applications\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\bin\Debug\ClassGestCommercial.dll
+D:\Annee2020-2021\B2Conception et developpement applications\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\bin\Debug\ClassGestCommercial.pdb
+D:\Annee2020-2021\B2Conception et developpement applications\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csprojAssemblyReference.cache
+D:\Annee2020-2021\B2Conception et developpement applications\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csproj.CoreCompileInputs.cache
+D:\Annee2020-2021\B2Conception et developpement applications\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.dll
+D:\Annee2020-2021\B2Conception et developpement applications\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.pdb
+C:\Users\sophi\Desktop\Annee2021-2022\B2_SLAM_SIO1\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\bin\Debug\ClassGestCommercial.dll
+C:\Users\sophi\Desktop\Annee2021-2022\B2_SLAM_SIO1\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\bin\Debug\ClassGestCommercial.pdb
+C:\Users\sophi\Desktop\Annee2021-2022\B2_SLAM_SIO1\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csproj.AssemblyReference.cache
+C:\Users\sophi\Desktop\Annee2021-2022\B2_SLAM_SIO1\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csproj.CoreCompileInputs.cache
+C:\Users\sophi\Desktop\Annee2021-2022\B2_SLAM_SIO1\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.dll
+C:\Users\sophi\Desktop\Annee2021-2022\B2_SLAM_SIO1\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.pdb
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO1\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\bin\Debug\ClassGestCommercial.dll
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO1\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\bin\Debug\ClassGestCommercial.pdb
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO1\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csproj.AssemblyReference.cache
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO1\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csproj.CoreCompileInputs.cache
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO1\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.dll
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO1\TP\02TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.pdb
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO1\TP\05TP\Partie1\Etud_GestCommercial\ClassGestCommercial\bin\Debug\ClassGestCommercial.dll
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO1\TP\05TP\Partie1\Etud_GestCommercial\ClassGestCommercial\bin\Debug\ClassGestCommercial.pdb
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO1\TP\05TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csproj.AssemblyReference.cache
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO1\TP\05TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csproj.CoreCompileInputs.cache
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO1\TP\05TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.dll
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO1\TP\05TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.pdb
+Z:\B2_SLAM_GIRARD\TP\04TP\Partie1\Etud_GestCommercial\ClassGestCommercial\bin\Debug\ClassGestCommercial.dll
+Z:\B2_SLAM_GIRARD\TP\04TP\Partie1\Etud_GestCommercial\ClassGestCommercial\bin\Debug\ClassGestCommercial.pdb
+Z:\B2_SLAM_GIRARD\TP\04TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csproj.AssemblyReference.cache
+Z:\B2_SLAM_GIRARD\TP\04TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassCommercial.csproj.CoreCompileInputs.cache
+Z:\B2_SLAM_GIRARD\TP\04TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.dll
+Z:\B2_SLAM_GIRARD\TP\04TP\Partie1\Etud_GestCommercial\ClassGestCommercial\obj\Debug\ClassGestCommercial.pdb
